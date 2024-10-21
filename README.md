@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fredson</h1>
 <h3 align="center">I am a brazilian CompSci student</h3>
 
-- 🌱 I’m currently learning **JAVA 17**
+- 🌱 I’m currently learning **MySQL**
 
 - 📫 How to reach me **fredsonmachado02@gmail.com**
 
