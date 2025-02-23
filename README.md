@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **fredsonmachado02@gmail.com**
 
-- ⚡ Fun fact **I play OSU**
+- ⚡ Fun fact **I play OSU :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
