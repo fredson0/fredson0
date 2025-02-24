@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fredson</h1>
 <h3 align="center">I am a brazilian CompSci student</h3>
 
-- 🌱 I’m currently learning **MySQL, java script, React, Node.js**
+- 🌱 I’m currently learning **MySQL, java script, React, Node.js, postman**
 
 - 📫 How to reach me **fredsonmachado02@gmail.com**
 
