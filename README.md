@@ -4,6 +4,7 @@
 - 🌱 I’m currently doing "projeto 360" it's about feedbacks in scope business, check out development in my repository **
 
 - 📫 How to reach me **fredsonmachado02@gmail.com**
+- - linkedin https://www.linkedin.com/in/fredson-santana-machado-filho-912655329
 
 - ⚡ Fun fact **I play OSU :)**
 
