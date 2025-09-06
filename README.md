@@ -6,7 +6,7 @@
 - 📫 How to reach me **fredsonmachado02@gmail.com**
 - - linkedin https://www.linkedin.com/in/fredson-santana-machado-filho-912655329
 
-- ⚡ Fun fact **I play OSU :)**
+- ⚡ Fun fact **I play OSU and street fighter 6 :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
