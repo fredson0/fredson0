@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fredson</h1>
 <h3 align="center">I am a brazilian CompSci student</h3>
 
-- I am developing the backend for "Sotero", an academic project focused on operational logistics management for transportation companies, using NestJS, Prisma, and MariaDB.**
+- I am developing the backend for "Sotero", an academic project from NITE focused on operational logistics management for transportation companies, using NestJS, Prisma, and MariaDB.**
 - 🌱 I’m currently doing "projeto 360" it's about feedbacks in scope business, check out development in my repository **
 
 - 📫 How to reach me **fredsonmachado02@gmail.com**
