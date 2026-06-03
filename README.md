@@ -61,7 +61,7 @@ Quer bater um papo sobre tecnologia, desenvolvimento ou oportunidades? Me chama 
 
 ### 📄 Meu Currículo
 
-Você pode visualizar ou baixar a versão mais atualizada do meu currículo profissional [clicando aqui](#). *(Dica: Faça upload do seu PDF atualizado no Google Drive, gere um link de leitura e substitua a "#" pelo link!)*
+Você pode visualizar ou baixar a versão mais atualizada do meu currículo profissional [clicando aqui](https://docs.google.com/document/d/1cVSHu8pvLos7PJP8K6JPFZXw_cPksyh8JedAWvKBQzQ/edit?usp=sharing). 
 
 <br>
 
