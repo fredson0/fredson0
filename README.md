@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Fredson Santana Banner"/>
+  <img src="banner.png.png" alt="Fredson Santana Banner"/>
 </p>
 
 <section style="width: 100%; display: flex; justify-content: space-between;">
