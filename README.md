@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/1e1e2e/a6accd?text=Fredson+Santana+-+Software+Developer" alt="Fredson Santana Banner"/>
+  <img src="banner.png" alt="Fredson Santana Banner"/>
 </p>
 
 <section style="width: 100%; display: flex; justify-content: space-between;">
