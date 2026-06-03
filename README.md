@@ -1,22 +1,70 @@
-<h1 align="center">Hi 👋, I'm Fredson</h1>
-<h3 align="center">I am a brazilian CompSci student</h3>
-
-- I am developing the backend for "Sotero", an academic real project freelancer, focused on operational logistics management for transportation companies, using NestJS, Prisma, and MariaDB.**
-- 🌱 I’m currently doing "projeto 360" it's about feedbacks in scope business, check out development in my repository **
-
-- 📫 How to reach me **fredsonmachado02@gmail.com**
--  linkedin https://www.linkedin.com/in/fredson-santana-machado-filho-912655329
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://via.placeholder.com/800x200/1e1e2e/a6accd?text=Fredson+Santana+-+Software+Developer" alt="Fredson Santana Banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredson0&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="fredson0" /></p>
+<section style="width: 100%; display: flex; justify-content: space-between;">
+  <img align="left" src="https://komarev.com/ghpvc/?username=fredson0&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
+  
+  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_UID_AQUI&cover_image=true&theme=novatorem&show_offline=false&background_color=1e1e2e&interchange=false&bar_color=ff7a8a" alt="Spotify Profile" style="max-width: 49%;"/>
+</section>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredson0&show_icons=true&theme=highcontrast&locale=en" alt="fredson0" /></p>
+<br><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredson0&theme=highcontrast" alt="fredson0" /></p>
+### 👋 Olá, eu sou o Fredson Santana Machado Filho!
+
+Sou um **Desenvolvedor Back-end/Full-Stack e Analista de Sistemas** com uma paixão gigantesca por arquitetura de software e resolução de problemas complexos. 
+
+- 🚀 Fui promovido em **apenas 3 meses** no meu emprego atual por conta da minha capacidade analítica de debugar falhas em sistemas complexos e otimizar integrações.
+- 💻 Atuo na criação de APIs robustas, microsserviços e integração de pipelines de dados em tempo real.
+- 🌱 Atualmente focado em colocar projetos com impacto real em produção, utilizando tecnologias como NestJS, Python e Go.
+- ⚡ **Fun fact:** Adoro aplicar estruturas de dados complexas (Grafos, Heap, Trie) para resolver gargalos de performance e otimizar rotinas!
+
+<br>
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fredson0&theme=prussian&show_icons=true" alt="Estatísticas do fredson0" />
+</p>
+
+<br>
+
+### 🔗 Conecte-se comigo!
+
+Quer bater um papo sobre tecnologia, desenvolvimento ou oportunidades? Me chama nas redes sociais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fredson-santana-machado-filho-912655329)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredsonmachado02@gmail.com)
+
+<br>
+
+### 📄 Meu Currículo
+
+Você pode visualizar ou baixar a versão mais atualizada do meu currículo profissional [clicando aqui](#). *(Dica: Faça upload do seu PDF atualizado no Google Drive, gere um link de leitura e substitua a "#" pelo link!)*
+
+<br>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" alt="Studio Ghibli coding GIF" />
+</p>
