@@ -2,10 +2,12 @@
   <img src="banner.png.png" alt="Fredson Santana Banner"/>
 </p>
 
-<section style="width: 100%; display: flex; justify-content: space-between;">
+<section style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
   <img align="left" src="https://komarev.com/ghpvc/?username=fredson0&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
   
-  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_UID_AQUI&cover_image=true&theme=novatorem&show_offline=false&background_color=1e1e2e&interchange=false&bar_color=ff7a8a" alt="Spotify Profile" style="max-width: 49%;"/>
+  <a href="https://github.com/kittinan/spotify-github-profile" style="max-width: 49%; text-align: right;">
+    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31h5x7b2mnf6fpml67aam57kgvle&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Profile" />
+  </a>
 </section>
 
 <br><br><br>
