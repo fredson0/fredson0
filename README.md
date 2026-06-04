@@ -2,20 +2,15 @@
   <img src="banner.png.png" alt="Fredson Santana Banner"/>
 </p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" valign="middle">
-      <img src="https://komarev.com/ghpvc/?username=fredson0&color=FF7A8A&style=for-the-badge" alt="Profile Views"/>
-    </td>
-    <td align="right" valign="middle">
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31h5x7b2mnf6fpml67aam57kgvle&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Profile" />
-      </a>
-    </td>
-  </tr>
-</table>
+<section style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
+  <img align="left" src="https://komarev.com/ghpvc/?username=fredson0&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
+  
+  <a href="https://github.com/kittinan/spotify-github-profile" style="max-width: 49%; text-align: right;">
+    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31h5x7b2mnf6fpml67aam57kgvle&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Profile" />
+  </a>
+</section>
 
-<br><br>
+<br><br><br>
 
 ### 👋 Olá, eu sou o Fredson Santana Machado Filho!
 
@@ -44,4 +39,35 @@ Sou um **Desenvolvedor Back-end/Full-Stack e Analista de Sistemas** com uma paix
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Estatísticas do fredson0](https://github-readme-stats.vercel.app/api?username=fredson0&theme=prussian&show_icons=true&include_all_commits=true)
+
+</div>
+<br>
+
+### 🔗 Conecte-se comigo!
+
+Quer bater um papo sobre tecnologia, desenvolvimento ou oportunidades? Me chama nas redes sociais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fredson-santana-machado-filho-912655329)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredsonmachado02@gmail.com)
+
+<br>
+
+### 📄 Meu Currículo
+
+Você pode visualizar ou baixar a versão mais atualizada do meu currículo profissional [clicando aqui](https://docs.google.com/document/d/1cVSHu8pvLos7PJP8K6JPFZXw_cPksyh8JedAWvKBQzQ/edit?usp=sharing). 
+
+<br>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" alt="Studio Ghibli coding GIF" />
+</p>
