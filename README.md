@@ -46,7 +46,7 @@ Sou um **Desenvolvedor Back-end/Full-Stack e Analista de Sistemas** com uma paix
 
 ### 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fredson0&theme=prussian&show_icons=true&include_all_commits=true&v=2)
+![Metrics do fredson0](https://metrics.lecoq.io/fredson0?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=America%2FSao_Paulo)
 
 <br>
 
