@@ -1,16 +1,21 @@
 <p align="center">
-  <img src="banner.png.png" alt="Fredson Santana Banner"/>
+  <img src="banner.png" alt="Fredson Santana Banner"/>
 </p>
 
-<section style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
-  <img align="left" src="https://komarev.com/ghpvc/?username=fredson0&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
-  
-  <a href="https://github.com/kittinan/spotify-github-profile" style="max-width: 49%; text-align: right;">
-    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31h5x7b2mnf6fpml67aam57kgvle&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Profile" />
-  </a>
-</section>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://komarev.com/ghpvc/?username=fredson0&color=FF7A8A&style=for-the-badge" alt="Profile Views"/>
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31h5x7b2mnf6fpml67aam57kgvle&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Profile" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br><br><br>
+<br><br>
 
 ### 👋 Olá, eu sou o Fredson Santana Machado Filho!
 
@@ -47,10 +52,9 @@ Sou um **Desenvolvedor Back-end/Full-Stack e Analista de Sistemas** com uma paix
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![Estatísticas do fredson0](https://github-readme-stats.vercel.app/api?username=fredson0&theme=prussian&show_icons=true&include_all_commits=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=fredson0&theme=prussian&show_icons=true&include_all_commits=true" alt="Estatísticas do fredson0" />
 </div>
+
 <br>
 
 ### 🔗 Conecte-se comigo!
