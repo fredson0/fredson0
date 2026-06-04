@@ -69,5 +69,5 @@ Você pode visualizar ou baixar a versão mais atualizada do meu currículo prof
 <br>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" alt="Studio Ghibli coding GIF" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" alt="Studio Ghibli coding GIF" width="100%" />
 </p>
