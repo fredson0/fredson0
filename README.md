@@ -14,6 +14,8 @@
 
 ### 👋 Olá, eu sou o Fredson Santana Machado Filho! !!
 
+https://fredsondev.com.br/
+
 Sou um **Desenvolvedor Back-end/Full-Stack e Analista de Sistemas** com uma paixão gigantesca por arquitetura de software e resolução de problemas complexos. 
 
 - 🚀 Fui promovido em **apenas 3 meses** no meu emprego atual por conta da minha capacidade analítica de debugar falhas em sistemas complexos e otimizar integrações.
