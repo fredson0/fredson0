@@ -12,7 +12,7 @@
 
 <br><br><br>
 
-### 👋 Olá, eu sou o Fredson Santana Machado Filho! !!
+### 👋 Olá, eu sou o Fredson Santana Machado Filho! !
 
 https://fredsondev.com.br/
 
