@@ -12,9 +12,9 @@
 
 <br><br><br>
 
-### 👋 Olá, eu sou o Fredson Santana Machado Filho! !
+### 👋 Olá, eu sou o Fredson Santana Machado Filho!
 
-https://fredsondev.com.br/
+Confira meu portifolio: https://fredsondev.com.br/
 
 Sou um **Desenvolvedor Back-end/Full-Stack e Analista de Sistemas** com uma paixão gigantesca por arquitetura de software e resolução de problemas complexos. 
 
